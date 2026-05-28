@@ -1,15 +1,92 @@
-# 💫 About Me:
-🔭 I'm a software engineering undergraduate of the University of Kelaniya.<br><br>🤝 I’m looking to collaborate on<br><br>Small beginner-friendly web development projects using HTML, CSS, JS & PHP.<br><br>💬 I’m looking for help with<br><br>Improving confidence in interviews & becoming better at speaking fluently in English.<br><br>🌱 I’m currently learning<br><br>Computer architecture, Jira basics, and modern web development techniques.<br><br>💬 Ask me about<br><br>My journey in learning software engineering, my university projects, or tips for learning in a fun way.<br><br>⚡ Fun fact<br><br>I love spending time with my pets ( Teddy and Chuti) — they always make my day!
+<p align="center">
+  <img src="https://github.com/vindyacharuni/vindyacharuni/blob/main/Vindya%20Charuni.png" alt="Banner" width="100%" />
+</p>
 
+<h3 align="center">Software Engineering Undergraduate 🎓</h3>
+<h3 align="center">Building scalable, real-world applications 🚀</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vindyacharuni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vindyacharuni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vindyacharuni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vindyacharuni&style=for-the-badge&color=0095B6" alt="Profile Views" />
+  
+  <a href="https://linkedin.com/www.linkedin.com/in/vindya-charuni-199877312">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:vindyacharuni13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+
+  <a href="https://medium.com/https://medium.com/@vindyacharuni13">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vindyacharuni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✨ About Me
+
+```javascript
+const vindya = {
+    role: "Software Engineering Undergraduate",
+    university: "University of Kelaniya, Sri Lanka",
+    cgpa   :3.70
+    interests: ["Full-Stack Web Development", "Cloud Technologies", "System Architecture"],
+    funFact: "I've built a custom 16-bit OS kernel!"
+};
+````
+### 🛠 Skills & Technologies
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🎨 Frontend</b></td>
+      <td align="center"><b>⚙️ Backend</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js" alt="Frontend Skills" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" alt="Backend Skills" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td align="center"><b>🗄️ Databases & ☁️ Cloud</b></td>
+      <td align="center"><b>🧰 Tools & DevOps</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases and Cloud" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Tools and DevOps" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+
+---
+
+<p align="center">
+  <img src="link_to_your_uploaded_footer_wave_image.png" alt="Footer Wave" width="100%" />
+</p>
+
+<p align="center">
+  <i>⭐ Thanks for visiting - feel free to explore my repos and drop a star if something catches your eye!</i>
+</p>
