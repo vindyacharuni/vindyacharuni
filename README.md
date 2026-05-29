@@ -24,17 +24,27 @@
 </p>
 
 ---
+### 💻 System Output: `whoami`
 
-### ✨ About Me
+```bash
+vindya@portfolio:~$ cat about_me.txt
 
-```javascript
-const vindya = {
-    role: "Software Engineering Undergraduate",
-    university: "University of Kelaniya, Sri Lanka",
-    cgpa   :3.70
-    interests: ["Full-Stack Web Development", "Cloud Technologies", "System Architecture"],
-    funFact: "I've built a custom 16-bit OS kernel!"
-};
+> Name: Vindya Charuni
+> Role: Software Engineering Undergraduate @ University of Kelaniya
+> Mission: Building scalable full-stack applications, exploring new technologies, and diving deep into system architecture.
+
+vindya@portfolio:~$ ./fetch_interests.sh
+
+[+] Loading modules...
+├── 🌐 Full-Stack Web Development (MERN)
+├── ⚙️ Low-Level Programming & Kernel Dev (Assembly, C)
+└── 📊 Data Visualization & Business Intelligence (Power BI)
+
+vindya@portfolio:~$ ./get_community_status.sh
+
+> Assistant Secretary @WIE Affinity Group IEEE Student Branch
+
+
 ````
 ### 🛠 Skills & Technologies
 
