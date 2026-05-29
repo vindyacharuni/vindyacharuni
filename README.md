@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vindyacharuni/vindyacharuni/blob/main/Vindya%20Charuni.png" alt="Banner" width="100%" />
+  <img src="https://github.com/vindyacharuni/vindyacharuni/blob/main/upper%20banner.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">Software Engineering Undergraduate 🎓</h3>
