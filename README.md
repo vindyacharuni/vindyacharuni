@@ -94,7 +94,7 @@ vindya@portfolio:~$ ./get_community_status.sh
 ---
 
 <p align="center">
-  <img src="link_to_your_uploaded_footer_wave_image.png" alt="Footer Wave" width="100%" />
+  <img src="https://github.com/vindyacharuni/vindyacharuni/blob/main/lower%20banner.png" alt="Footer Wave" width="100%" />
 </p>
 
 <p align="center">
